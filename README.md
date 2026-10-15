@@ -1,2 +1,2 @@
-# PS_Microsoft_Licenses
-🟡 PowerShell scripts for Microsoft Licenses
+# 🟡 PowerShell scripts for Microsoft Licenses
+👤 User: Guilherme Pataro
